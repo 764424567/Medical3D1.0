@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 52c497cae30358d46994e8dca6d12fb8
+timeCreated: 1496829893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antcard
+    100002: antinter
+    100004: aorta
+    100006: circart
+    100008: csinus
+    100010: grtcard
+    100012: //RootNode
+    100014: invena
+    100016: latrium
+    100018: lauric
+    100020: leftcor
+    100022: lmargart
+    100024: lmarvein
+    100026: lpostven
+    100028: midcard
+    100030: posinter
+    100032: ptrunk
+    100034: pveins
+    100036: ratrium
+    100038: rightcor
+    100040: rightmar
+    100042: smalcard
+    100044: svena
+    100046: vents
+    400000: antcard
+    400002: antinter
+    400004: aorta
+    400006: circart
+    400008: csinus
+    400010: grtcard
+    400012: //RootNode
+    400014: invena
+    400016: latrium
+    400018: lauric
+    400020: leftcor
+    400022: lmargart
+    400024: lmarvein
+    400026: lpostven
+    400028: midcard
+    400030: posinter
+    400032: ptrunk
+    400034: pveins
+    400036: ratrium
+    400038: rightcor
+    400040: rightmar
+    400042: smalcard
+    400044: svena
+    400046: vents
+    2300000: antcard
+    2300002: antinter
+    2300004: aorta
+    2300006: circart
+    2300008: csinus
+    2300010: grtcard
+    2300012: invena
+    2300014: latrium
+    2300016: lauric
+    2300018: leftcor
+    2300020: lmargart
+    2300022: lmarvein
+    2300024: lpostven
+    2300026: midcard
+    2300028: posinter
+    2300030: ptrunk
+    2300032: pveins
+    2300034: ratrium
+    2300036: rightcor
+    2300038: rightmar
+    2300040: smalcard
+    2300042: svena
+    2300044: vents
+    3300000: antcard
+    3300002: antinter
+    3300004: aorta
+    3300006: circart
+    3300008: csinus
+    3300010: grtcard
+    3300012: invena
+    3300014: latrium
+    3300016: lauric
+    3300018: leftcor
+    3300020: lmargart
+    3300022: lmarvein
+    3300024: lpostven
+    3300026: midcard
+    3300028: posinter
+    3300030: ptrunk
+    3300032: pveins
+    3300034: ratrium
+    3300036: rightcor
+    3300038: rightmar
+    3300040: smalcard
+    3300042: svena
+    3300044: vents
+    4300000: ptrunk
+    4300002: aorta
+    4300004: antinter
+    4300006: csinus
+    4300008: grtcard
+    4300010: antcard
+    4300012: rightmar
+    4300014: smalcard
+    4300016: midcard
+    4300018: lpostven
+    4300020: circart
+    4300022: posinter
+    4300024: leftcor
+    4300026: rightcor
+    4300028: lmarvein
+    4300030: lmargart
+    4300032: svena
+    4300034: invena
+    4300036: ratrium
+    4300038: pveins
+    4300040: lauric
+    4300042: latrium
+    4300044: vents
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

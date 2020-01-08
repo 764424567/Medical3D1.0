@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="250-7750"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>D:/MAYA Folder/model/hert_rr.mb</extra>
+  <extra>maya 2017</extra>
+  <extra>Hero</extra>
+  <Channels>
+    <channel0 ChannelName="ptrunkShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel1 ChannelName="aortaShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel2 ChannelName="antinterShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel3 ChannelName="csinusShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel4 ChannelName="grtcardShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel5 ChannelName="antcardShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel6 ChannelName="rightmarShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel7 ChannelName="smalcardShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel8 ChannelName="midcardShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel9 ChannelName="lpostvenShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel10 ChannelName="circartShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel11 ChannelName="posinterShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel12 ChannelName="leftcorShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel13 ChannelName="rightcorShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel14 ChannelName="lmarveinShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel15 ChannelName="lmargartShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel16 ChannelName="svenaShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel17 ChannelName="invenaShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel18 ChannelName="ratriumShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel19 ChannelName="pveinsShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel20 ChannelName="lauricShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel21 ChannelName="latriumShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+    <channel22 ChannelName="ventsShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="7750"/>
+  </Channels>
+</Autodesk_Cache_File>
